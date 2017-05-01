@@ -1,0 +1,59 @@
+Navbar: 
+- Color scheme (NPTEL bg white)
+- Should move unnecessary options to navbar
+
+Footer:
+- Condense course type width (types of courses)
+- Footer layout and design (yuck)
+
+Home page:
+- Way too many options
+- Wtf is "speech to text"
+- NPTEL chapter necessary above the fold?
+- Gate preperation not relevant to main idea behind the website
+- NPTEL workshop useless
+- Featured courses and New courses?
+- Clicking on IIT logos redirect to courses or website?
+
+Courses:
+- "New" completely cover the page, pointless
+- Search bar on top and on the side
+- "Filter" not "List"
+- Search options unclear/unintuitive
+- Each course box is scrollable, not intuitive or best approach to represent data
+- "NOC"???
+- Link the photos
+
+
+Tasks:
+- Search for PSOSM course, find the FAQs
+- Find the contact us page
+- Find courses with no videos
+- Find Agriculture courses
+- Find videos with the word mean velocity
+- Find lectures with the word "machine" in it
+
+Anupama:
+- Lot of content
+- Search is way too slow
+- Not intuitive that no FAQs
+- Footer contact us, not hard to find
+- Web courses found
+- Didn't use footer to find Agriculture
+- Used search bar on top to find mean velocity
+- Took 3 turns, went through all search bars
+- Multiple search bars
+- Too much to digest
+- Consistency of course display
+- Hard to navigate course pages, search features not intuitive
+- Search within video not clear at all
+- Arrow should change
+- Frame FAQ questions better
+
+Kushagra:
+- Resources page is not intuitive
+- Not intuitive that FAQs are absent
+- Home page confusing
+- Contact us not on the navbar
+- Does not use footer for finding Agricultute courses
+- Enter does not work in search bar
