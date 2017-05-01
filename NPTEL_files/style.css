@@ -8,6 +8,10 @@ body, #images, #images a {
    color:white;
 }
 
+.footer-copyright {
+    color:black;
+}
+
 .navbar .sbar > div {
     color: white;
     size:1000px;
@@ -23,8 +27,8 @@ body, #images, #images a {
 }
 .carousel-inner{
   width:100%;
-  height: 400px !important;
-  max-height: 400px !important;
+  height: 490px !important;
+  max-height: 490px !important;
 }
 
 body
