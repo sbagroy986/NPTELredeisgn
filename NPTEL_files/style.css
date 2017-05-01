@@ -181,8 +181,6 @@ body
     background-color: #983936;/* theme color */
 	font-size: 15px;
     text-align: center;
-    font-weight: bold;
-    font-style: italic;
 }
 .featuretitle {
     margin-bottom: 10px;
@@ -208,7 +206,7 @@ body
 /***********************************************/
 .ftext {
     width: 90%;
-    margin-left: 5%;
+    /*margin-left: 5%;*/
     margin-top: 2%;
     color: #4C4949;
     word-wrap: break-word;
@@ -218,7 +216,7 @@ body
     text-decoration: none;
 }
 .ftitle {
-    font-style: italic;
+    /*font-style: italic;*/
     font-weight: bold;
     color:#983936;
 }
@@ -265,7 +263,7 @@ body
     min-height: 583px;
     border: 1px solid #DDD;
     /*margin-right: 6%;*/
-    height: 600px;
+    height: 720px;
 }
 .latest-course {
     padding-left: 0;
@@ -307,7 +305,7 @@ td.latestcs-dt {
 {
     padding-left: 10px;
     padding-right: 10px;
-    max-height: 525px;
+    max-height: 630px;
     overflow-y: hidden;  
 }
 .fnewscol:hover
@@ -320,7 +318,6 @@ td.latestcs-dt {
 }
 .cname {
     color: #983936;
-    text-align: center;
     min-height: 40px;
     line-height: 40px;
     white-space: nowrap;
@@ -328,20 +325,13 @@ td.latestcs-dt {
     text-overflow: ellipsis;
     font-weight: bold;
 }
-.cname:hover {
-    white-space: normal;
-    line-height: 16px;
-    width: 100%;
-    font-size: 10px;
-    transform: scale(1.3);
-    overflow: auto;
-    vertical-align: middle;
-}
+
 .ccoord,.cinst
 {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    color:black;
 }
 a:hover, a:focus {
     color:#983936;
