@@ -18,6 +18,11 @@ body
     margin-left: 1%;
     margin-top: 1%;
 }
+
+.navbar .nav > li > a {
+    color: white;
+}
+
 .nptellogo {
     width: 231px;
     height: 40px;
